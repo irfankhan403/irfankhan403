@@ -49,7 +49,7 @@ Worked on CMS platforms focusing on seamless content management and user experie
 ## 🎓 Education
 
 - **Bachelor of Computer Engineering**  
-  Anjuman-I-Islam's Kalsekar Technical Campus, Navi Mumbai (2013 - 2019)
+  Anjuman-I-Islam's Kalsekar Technical Campus, Navi Mumbai (2019)
 
 ---
 
