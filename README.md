@@ -18,7 +18,7 @@
 
 ## 🏆 Notable Projects
 
-### Rakuten Contact Management System
+### Contact Management System
 **Role**: Senior Software Developer at Sourcefuse  
 **Tech Stack**: Loopback 4, Node.js, Microservices, Angular 14, MySQL  
 Developed a contact management system with a focus on scalability and following Agile methodologies.
